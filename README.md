@@ -60,6 +60,4 @@ En esta versión, se consideran dos tipos de usuarios: normales y premium. Los u
 
 Esta versión utiliza la fórmula original de utilidades pero también solicita las utilidades del año anterior (Uanterior). Calcula las utilidades actuales y muestra la razón entre las utilidades actuales y las del año anterior con dos decimales.
 
-**Nota:** Se recomienda al usuario tener precaución al ingresar valores que podrían afectar el funcionamiento adecuado del programa.
-
-Cada programa debe ejecutarse independientemente según la versión que se desee utilizar, siguiendo las instrucciones proporcionadas en cada uno.
+### Autor [GabrielRecabarren](https://github.com/GabrielRecabarren) 
