@@ -44,7 +44,7 @@ Para verificar el correcto funcionamiento del programa, se puede utilizar:
 
 ****************
 
-# Actividad 2 - Rentabilidad
+### Desafío 2: Rentabilidad
 
 En esta actividad, vamos a desarrollar un programa en Python para calcular las utilidades de un proyecto emprendedor que ofrece un servicio de entrega de comida para mascotas. Este cálculo se realizará en tres versiones diferentes, cada una con sus propias características.
 
