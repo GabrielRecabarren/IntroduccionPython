@@ -40,3 +40,26 @@ Para verificar el correcto funcionamiento del programa, se puede utilizar:
 - \( r = 6371 \) [Km]
 
 **Resultado esperado:** Velocidad de Escape = 11174.6 [m/s]
+
+
+****************
+
+# Actividad 2 - Rentabilidad
+
+En esta actividad, vamos a desarrollar un programa en Python para calcular las utilidades de un proyecto emprendedor que ofrece un servicio de entrega de comida para mascotas. Este cálculo se realizará en tres versiones diferentes, cada una con sus propias características.
+
+## emprendedor1.py
+
+Este programa utiliza la fórmula básica para calcular las utilidades del proyecto. Solicita como datos de entrada el precio de suscripción (P), el número de usuarios (U) y los gastos totales (GT).
+
+## emprendedor2.py
+
+En esta versión, se consideran dos tipos de usuarios: normales y premium. Los usuarios premium pagan un 50% más que los usuarios normales. El programa solicita los precios de suscripción para cada tipo de usuario, así como el número de usuarios normales (Unormal), el número de usuarios premium (Upremium) y los gastos totales (GT).
+
+## emprendedor3.py
+
+Esta versión utiliza la fórmula original de utilidades pero también solicita las utilidades del año anterior (Uanterior). Calcula las utilidades actuales y muestra la razón entre las utilidades actuales y las del año anterior con dos decimales.
+
+**Nota:** Se recomienda al usuario tener precaución al ingresar valores que podrían afectar el funcionamiento adecuado del programa.
+
+Cada programa debe ejecutarse independientemente según la versión que se desee utilizar, siguiendo las instrucciones proporcionadas en cada uno.
